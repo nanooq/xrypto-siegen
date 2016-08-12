@@ -5,7 +5,7 @@ Folien und Organisatorisches für Crypto-Parties in Siegen.
 ## Submodule und Themenübersicht:
 * handbook: Das berühmte Crypto-Party Handbuch (englisch).
 
-* xrypto-auth: Authentisierung
+* [xrypto-auth](https://github.com/xrypto-siegen/xrypto-auth): Authentisierung
   * sichere Passwörter
   * Wie oft ändern?
   * Merkregeln
@@ -14,36 +14,36 @@ Folien und Organisatorisches für Crypto-Parties in Siegen.
   * 2-Faktor Authentisierung
   * im Browser: auf HTTPS achten! (evtl. live-Demo)
 
-* xrypto-mail: e-mails
+* [xrypto-mail](https://github.com/xrypto-siegen/xrypto-mail): e-mails
   * PGP (Thunderbird+Enigmail)
   * S/MIME
   * Transportverschlüsselung mit (START)TLS
   * live-Demo: fake-mails verschicken
 
-* xrypto-chat: instant messaging
+* [xrypto-chat](https://github.com/xrypto-siegen/xrypto-chat): instant messaging
   * Crypto-Messenger
   * OTR
   * Sprachverschlüsselung
 
-* xrypto-phon: Smartphones
+* [xrypto-phon](https://github.com/xrypto-siegen/xrypto-phon): Smartphones
   * Lock screen
   * Berechtigunen (privacy guard)
   * WLAN-Sicherheit (evtl. live-Demo: Spoofing)
 
-* xrypto-bank: Onlinebanking
+* [xrypto-bank](https://github.com/xrypto-siegen/xrypto-bank): Onlinebanking
   * Methoden zur TAN-Generierung
   * TAN-Eingangsdaten kontrollieren!
 
-* xrypto-anon: Anonymität
+* [xrypto-anon](https://github.com/xrypto-siegen/xrypto-anon): Anonymität
   * TAILS / Tor browser bundle
   * Firefox-Plugins
   * Cookies, Tracker
 
-* xrypto-data: Festplattenverschlüsselung / Container
+* [xrypto-data](https://github.com/xrypto-siegen/xrypto-data): Festplattenverschlüsselung / Container
   * Festplattenverschlüsselung (VeraCrypt, LUKS)
   * Container (VeraCrypt)
 
-* xrypto-file: File-Sharing
+* [xrypto-file](https://github.com/xrypto-siegen/xrypto-file): File-Sharing
   * ownCloud / nextCloud
   * e-mails
   * Retro-Share?
