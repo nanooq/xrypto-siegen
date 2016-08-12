@@ -4,3 +4,6 @@
 [submodule "xrypto-auth"]
 	path = xrypto-auth
 	url = git@github.com:xrypto-siegen/xrypto-auth.git
+[submodule "xrypto-email"]
+	path = xrypto-email
+	url = git@github.com:xrypto-siegen/xrypto-email.git
