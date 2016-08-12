@@ -3,7 +3,6 @@
 Folien und Organisatorisches für Crypto-Parties in Siegen.
 
 ## Submodule und Themenübersicht:
-
 * handbook: Das berühmte Crypto-Party Handbuch (englisch).
 
 * xrypto-auth: Authentisierung
@@ -49,3 +48,14 @@ Folien und Organisatorisches für Crypto-Parties in Siegen.
   * e-mails
   * Retro-Share?
   * Tox?
+
+## Verwaltung der Submodule:
+Mit dem folgenden Befehl können automatisch alle Submodule geklont werden:
+```
+git clone --recursive git@github.com:xrypto-siegen/xrypto-siegen.git
+```
+
+Alle Submodule auf den aktuellen Stand bringen:
+```
+git submodule update
+```
