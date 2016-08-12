@@ -7,3 +7,6 @@
 [submodule "xrypto-email"]
 	path = xrypto-email
 	url = git@github.com:xrypto-siegen/xrypto-email.git
+[submodule "xrypto-chat"]
+	path = xrypto-chat
+	url = git@github.com:xrypto-siegen/xrypto-chat.git
