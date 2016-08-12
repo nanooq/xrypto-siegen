@@ -1,3 +1,6 @@
 [submodule "handbook"]
 	path = handbook
 	url = git@github.com:cryptoparty/handbook.git
+[submodule "xrypto-auth"]
+	path = xrypto-auth
+	url = git@github.com:xrypto-siegen/xrypto-auth.git
