@@ -13,3 +13,6 @@
 [submodule "xrypto-phon"]
 	path = xrypto-phon
 	url = git@github.com:xrypto-siegen/xrypto-phon.git
+[submodule "xrypto-bank"]
+	path = xrypto-bank
+	url = git@github.com:xrypto-siegen/xrypto-bank.git
