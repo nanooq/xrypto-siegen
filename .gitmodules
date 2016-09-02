@@ -19,3 +19,6 @@
 [submodule "xrypto-anon"]
 	path = xrypto-anon
 	url = git@github.com:xrypto-siegen/xrypto-anon.git
+[submodule "xrypto-data"]
+	path = xrypto-data
+	url = git@github.com:xrypto-siegen/xrypto-data.git
