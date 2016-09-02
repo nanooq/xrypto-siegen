@@ -1,0 +1,51 @@
+% hitex:master
+\documentclass[10pt]{beamer}
+\usepackage[utf8]{inputenc}
+\usepackage[ngerman]{babel}
+\usepackage{wasysym}
+\usepackage[locale=DE]{siunitx}
+\newcommand{\bit}{bit}
+\newcommand{\byte}{B}
+\usepackage{tikz}
+\usetikzlibrary{arrows}
+\usetikzlibrary{positioning}
+\usepackage{graphicx}
+
+\usetheme{Luebeck}
+\usecolortheme{dolphin}
+\beamertemplatenavigationsymbolsempty
+\setcounter{tocdepth}{2}
+%\AtBeginSection[]{\frame{\tableofcontents[sectionstyle=show/shaded,subsectionstyle=show/show/hide]}}
+\AtBeginSubsection[]{\frame{\tableofcontents[sectionstyle=show/shaded,subsectionstyle=show/shaded/hide]}}
+%\beamerdefaultoverlayspecification{<+->}
+
+\newcommand{\thetitle}{Thema der Präsentation}
+\title[\thetitle]{\huge{\thetitle}}
+\author{Xrypto Siegen}
+\date{\scriptsize\today}
+
+\begin{document}
+    \frame{\titlepage}
+    \frame{\tableofcontents}
+    %\frame{\tableofcontents[sections=1-2]}
+    %\frame{\tableofcontents[sections=3-5]}
+
+    \include{examples}
+    \include{section_template}
+
+    \section{}
+    \frame{
+        \begin{center}
+        {\Large\bfseries Vielen Dank für die Aufmerksamkeit.} \\[5mm]
+        Fragen?
+        \end{center}
+    }
+
+    \frame{
+        \begin{description}
+            \item[Xrypto Siegen] ist ein Gruppe engagierter Kryptographie-Enthusiasten und Datenschutz-Aktivisten von der Universität Siegen und dem Hackspace Siegen mit der Vision / Mission, in regelmäßigen Intervallen Crypto-Parties an ebenjenen Orten zu veranstalten und Menschen auf die Gefahren der vernetzten Welt aufmerksam zu machen und ihnen das Thema "`Datenschutz"' ans Herz zu legen.
+            \item[Hackspace Siegen] ist ein gemeinnütziger Verein mit dem Ziel der Wissensvermittlung und Förderung im Bereich Technik/Informatik. Zu diesem Zweck organisiert der "`HaSi"' Vorträge, Workshops, Schnupperkurse für Kinder/Jugendliche und ähnliche Veranstaltungen.
+            Darüber hinaus bietet das Vereinsheim eine Infrastruktur für gemeinschaftliches arbeiten an Projekten.
+        \end{description}
+    }
+\end{document}
