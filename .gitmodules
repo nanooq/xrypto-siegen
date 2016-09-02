@@ -22,3 +22,6 @@
 [submodule "xrypto-data"]
 	path = xrypto-data
 	url = git@github.com:xrypto-siegen/xrypto-data.git
+[submodule "xrypto-file"]
+	path = xrypto-file
+	url = git@github.com:xrypto-siegen/xrypto-file.git
