@@ -39,9 +39,11 @@ Folien und Organisatorisches für Crypto-Parties in Siegen.
   * Firefox-Plugins
   * Cookies, Tracker
 
-* [xrypto-data](https://github.com/xrypto-siegen/xrypto-data): Festplattenverschlüsselung / Container
-  * Festplattenverschlüsselung (VeraCrypt, LUKS)
+* [xrypto-data](https://github.com/xrypto-siegen/xrypto-data): Datenverschlüsselung
+  * Grundlagen: Verschlüsselungsverfahren
+  * Datenverschlüsselung mit GnuPG
   * Container (VeraCrypt)
+  * Festplattenverschlüsselung (VeraCrypt, LUKS)
 
 * [xrypto-file](https://github.com/xrypto-siegen/xrypto-file): File-Sharing
   * ownCloud / nextCloud
