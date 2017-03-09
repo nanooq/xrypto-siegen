@@ -1,27 +1,27 @@
 [submodule "handbook"]
 	path = handbook
 	url = git@github.com:cryptoparty/handbook.git
-[submodule "xrypto-auth"]
-	path = xrypto-auth
-	url = git@github.com:xrypto-siegen/xrypto-auth.git
-[submodule "xrypto-email"]
-	path = xrypto-email
-	url = git@github.com:xrypto-siegen/xrypto-email.git
-[submodule "xrypto-chat"]
-	path = xrypto-chat
-	url = git@github.com:xrypto-siegen/xrypto-chat.git
-[submodule "xrypto-phon"]
-	path = xrypto-phon
-	url = git@github.com:xrypto-siegen/xrypto-phon.git
-[submodule "xrypto-bank"]
-	path = xrypto-bank
-	url = git@github.com:xrypto-siegen/xrypto-bank.git
 [submodule "xrypto-anon"]
 	path = xrypto-anon
 	url = git@github.com:xrypto-siegen/xrypto-anon.git
+[submodule "xrypto-auth"]
+	path = xrypto-auth
+	url = git@github.com:xrypto-siegen/xrypto-auth.git
+[submodule "xrypto-bank"]
+	path = xrypto-bank
+	url = git@github.com:xrypto-siegen/xrypto-bank.git
+[submodule "xrypto-chat"]
+	path = xrypto-chat
+	url = git@github.com:xrypto-siegen/xrypto-chat.git
 [submodule "xrypto-data"]
 	path = xrypto-data
 	url = git@github.com:xrypto-siegen/xrypto-data.git
 [submodule "xrypto-file"]
 	path = xrypto-file
 	url = git@github.com:xrypto-siegen/xrypto-file.git
+[submodule "xrypto-phon"]
+	path = xrypto-phon
+	url = git@github.com:xrypto-siegen/xrypto-phon.git
+[submodule "xrypto-mail"]
+	path = xrypto-mail
+	url = git@github.com:xrypto-siegen/xrypto-mail.git
